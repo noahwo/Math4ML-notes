@@ -7,7 +7,7 @@ dg-home:
 In general, vectors are special objects that can be added together or multiplied by scalars to procuce another obhject of the same kind. E.g., the geometric vectors, polynomials, audio signals (a seris of number), or tuples of $n$ real numbers $\mathbb{R}^n$.
 
 **Vector space** is the set of vectors that can result by startinf with a small set of vectors, and adding them to each other and scaling them.
-![](mindmap.png)
+![mindmap](./attachments/mindmap.png)
 Figure 2.2 A mind map of the concepts introduced in this chapter, along with where they are used in other parts of the book.
 
 ## 2.1 Systems of Linear Equations
@@ -47,7 +47,7 @@ x_1 \\ \vdots \\x_n
 $$
 In general, for a real-valued system of linear equations, we obtain either **no**, **exactly one**, or **infinitely many** solutions.
 
-E.g., the solution space of a system of two linear equations with two variables can be geometrically interpreted as the intersection of two lines. Every linear equation represents a line:![](linearequation.png)
+E.g., the solution space of a system of two linear equations with two variables can be geometrically interpreted as the intersection of two lines. Every linear equation represents a line:![](./attachments/linearequation.png)
 ## 2.2 Matrices
 
 ***Definition 2.1 (Matrix)***: 
@@ -67,7 +67,7 @@ a_{ij}\in\mathbb{R}.$$
 (1,*n*)-matrices are called *rows* while (*m*,1)-matirces are *columns*. They are *row/column vectors*.
 
 $\textbf{\textit{A}} \in \mathbb{R}^{m\times n}$ is equal to $\textbf{\textit{a}}\in \mathbb{R}^{mn}$, by stacking all *n* columns of  $\textbf{\textit{A}}$ into a long vector:
-![](longvector.png|center|300)
+![](./attachments/longvector.png|center|300)
 ### 2.2.1 Matix Addition and Multiplication
 
 The sum of two matrices $A\in \mathbb{R}^{m\times n}$ and $B\in\mathbb{R}^{n\times k}$,, is defined as the *element-wise sum*. For their product, $C=AB\in\mathbb{R}^{m\times k}$, the elements $c_{ij}$ are computed as:
