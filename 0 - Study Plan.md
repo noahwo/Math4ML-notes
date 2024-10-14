@@ -2,9 +2,7 @@
 dg-publish: true
 dg-home:
 ---
-
-
-Thank you for providing the detailed table of contents and requirements for creating a study plan for "Mathematics for Machine Learning". I'll create a day-by-day curriculum that covers chapters 2-12 over a period of approximately 40 days. The plan will include reading assignments, exercises, and review days.
+A day-by-day curriculum that covers chapters 2-12 over a period of approximately 40 days. The plan will include reading assignments, exercises, and review days.
 
 ### Week 1: Linear Algebra
 
