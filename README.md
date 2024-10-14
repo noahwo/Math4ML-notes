@@ -1,5 +1,5 @@
 # Math4ML-notes
-Notes of learning the book Mathematics for Machine Learning
+Notes of learning the book Mathematics for Machine Learning. The book: https://mml-book.github.io/.
 
 # Table of Contents
 
